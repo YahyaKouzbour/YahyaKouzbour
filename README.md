@@ -21,6 +21,9 @@ Web and mobile Programmer | Web and mobile Designer | Learner | Researcher
 I'm a full stack developer...
 
 
+<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+
+
 ### Connect with me:
 
 [<img align="left" alt="youcode.ma" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
